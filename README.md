@@ -10,5 +10,6 @@ https://github.com/AdilakshmiB/way2recycle-app/blob/main/Way2Recycle.pdf
 ### Link for the Solution templates:
 https://github.com/AdilakshmiB/way2recycle-app/blob/main/Way2Recycle%20Templates.pdf
 
+------x---------x--------
 
 
